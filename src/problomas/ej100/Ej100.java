@@ -39,6 +39,7 @@ public class Ej100 {
 				// Aumentamos el contador
 				contador++;
 			}
+			
 			// Imprimimos el contador
 			System.out.println(contador);
 		}
